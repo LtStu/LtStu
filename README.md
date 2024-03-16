@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LtechStu
+- 👋 Hi, I’m @LtStu
 - 👀 I’m interested in PC
 - 🌱 I’m currently learning GDScript,Python
 - 目前正在尝试从零开始制作一款2D游戏
